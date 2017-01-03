@@ -138,15 +138,41 @@ None().takeRight(Some(2))
 // => None
 ```
 
-
-
 ---
 ---
 ---
 
-## Maybe
+## [Maybe](https://github.com/cwmyers/monet.js/blob/master/docs/MAYBE.md)
 
-TBD…
+- [map](https://github.com/cwmyers/monet.js/blob/master/docs/MAYBE.md#map)
+- [flatMap](https://github.com/cwmyers/monet.js/blob/master/docs/MAYBE.md#flatmap)
+- [bind](https://github.com/cwmyers/monet.js/blob/master/docs/MAYBE.md#flatmap)
+- [chain](https://github.com/cwmyers/monet.js/blob/master/docs/MAYBE.md#flatmap)
+- [fold](https://github.com/cwmyers/monet.js/blob/master/docs/MAYBE.md#fold)
+- [foldLeft](https://github.com/cwmyers/monet.js/blob/master/docs/MAYBE.md#foldleft)
+- [foldRight](https://github.com/cwmyers/monet.js/blob/master/docs/MAYBE.md#foldright)
+- [isSome](https://github.com/cwmyers/monet.js/blob/master/docs/MAYBE.md#issome)
+- [isJust](https://github.com/cwmyers/monet.js/blob/master/docs/MAYBE.md#issome)
+- [isNone](https://github.com/cwmyers/monet.js/blob/master/docs/MAYBE.md#isnone)
+- [isNothing](https://github.com/cwmyers/monet.js/blob/master/docs/MAYBE.md#isnone)
+- join
+- takeLeft
+- takeRight
+- ap
+- cata
+- filter
+- some
+- just
+- orSome
+- orJust
+- orNull
+- orElse
+- contains
+- forEach
+- orElseRun
+- toList
+- toEither
+- toValidation
 
 ## Either
 
